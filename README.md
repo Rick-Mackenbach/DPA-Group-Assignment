@@ -6,6 +6,9 @@ The approach here was by cleaning, representing and finally measuring similarity
 
 
 Collaborators:
+
 https://github.com/cschweitzer
+
 https://github.com/paudrg
+
 https://github.com/TKarozis
